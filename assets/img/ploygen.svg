@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="207px" height="213px" viewBox="0 0 207 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <defs>
+        <linearGradient x1="-8.17962037%" y1="83.5428984%" x2="91.436797%" y2="17.0723615%" id="linearGradient-1">
+            <stop stop-color="#07466F" offset="0%"></stop>
+            <stop stop-color="#2F88C2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.899999976">
+        <g id="Schedule--Session" transform="translate(-1163.000000, -729.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M1364.13467,814.54337 L1265.08501,742.331789 C1262.64867,740.55607 1259.35133,740.55607 1256.91457,742.331789 L1157.86533,814.54337 C1155.42941,816.319089 1154.41037,819.467089 1155.34049,822.340209 L1193.17395,939.181158 C1194.10449,942.054279 1196.77262,944 1199.78381,944 L1322.21619,944 C1325.22738,944 1327.89551,942.054702 1328.82605,939.181158 L1366.65951,822.340209 C1367.58963,819.467089 1366.57059,816.319089 1364.13467,814.54337 Z M1317.2987,929.984723 L1204.99333,929.984723 L1170.28888,822.829545 L1261.14623,756.60394 L1352.00316,822.829545 L1317.2987,929.984723 Z" id="Shape" transform="translate(1261.000000, 842.500000) rotate(166.000000) translate(-1261.000000, -842.500000) "></path>
+        </g>
+    </g>
+</svg>
